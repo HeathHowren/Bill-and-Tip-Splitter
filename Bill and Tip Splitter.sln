@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bill and Tip Splitter", "Bill and Tip Splitter\Bill and Tip Splitter.csproj", "{0B548B66-4A46-4C82-B143-76C23D0FB79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B548B66-4A46-4C82-B143-76C23D0FB79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B548B66-4A46-4C82-B143-76C23D0FB79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B548B66-4A46-4C82-B143-76C23D0FB79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B548B66-4A46-4C82-B143-76C23D0FB79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA949BB1-4227-4911-8A13-145A021468C8}
+	EndGlobalSection
+EndGlobal
